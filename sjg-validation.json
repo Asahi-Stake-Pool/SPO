@@ -1,0 +1,8 @@
+{
+"name":"ひであき［ASAHI］#5085",
+"ticker":"ASAHI",
+"discordId":"418286659939991552",
+"pool-list":"true",
+"poolMetaData":"https://raw.githubusercontent.com/Asahi-Stake-Pool/Asahi/main/poolMetaDate.json",
+"validation":"https://raw.githubusercontent.com/Asahi-Stake-Pool/SPO/main/sjg-validation.json"
+}
