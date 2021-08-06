@@ -6,3 +6,11 @@
 "poolMetaData":"https://raw.githubusercontent.com/Asahi-Stake-Pool/Asahi/main/poolMetaDate.json",
 "validation":"https://raw.githubusercontent.com/Asahi-Stake-Pool/SPO/main/sjg-validation.json"
 }
+{
+"name":"バックス［ASAHI］#3853",
+"ticker":"ASAHI",
+"discordId":"825770482098765844",
+"pool-list":"true",
+"poolMetaData":"https://raw.githubusercontent.com/Asahi-Stake-Pool/Asahi/main/poolMetaDate.json",
+"validation":"https://raw.githubusercontent.com/Asahi-Stake-Pool/SPO/main/sjg-validation.json"
+}
